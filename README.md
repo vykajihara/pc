@@ -1,5 +1,5 @@
 # pc
-atividades de avaliativas da disciplina de programacao concorrente
+atividades de avaliação da disciplina de programacao concorrente
 
 # distribuida
 mpicxx distributed.cpp -O3 -ffast-math -march=native -mtune=native -lm -fopenmp
